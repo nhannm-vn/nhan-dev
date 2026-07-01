@@ -1,8 +1,8 @@
 export const profile = {
   name: "Nguyễn Minh Nhân",
   role: "Software Engineer",
-  initials: "",
-  email: "hello@armanvega.dev",
+  initials: "NN",
+  email: "minhnhan17.dev@gmail.com",
   location: "Remote · Worldwide",
   socials: {
     github: "https://github.com",
